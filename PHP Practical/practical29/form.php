@@ -46,3 +46,13 @@
 </body>
 
 </html>
+
+<!-- database input -->
+    <!-- 1	first_name	text	
+	2	last_name	text	
+	3	position	text	
+	4	phone	    varchar(10)	
+	5	github	    text	
+	6	dob	        date
+	7	address	    text	
+	8	description	text -->
