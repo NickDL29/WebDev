@@ -137,9 +137,7 @@ employee.
 29 Design a form to fill up Resume details and store in a database. After saving 
 Resume details, users should able to view, insert, update and delete the 
 information. Changes must be reflected in a database
-![resume-table-min](https://user-images.githubusercontent.com/79783629/208970807-263a7ef8-4cca-43e0-ab00-499206de24db.png)
-<img src="https://github.com/NickDL29/WebDev/blob/main/resume-table.png?raw=true"/>
-<a href="https://user-images.githubusercontent.com/79783629/208970807-263a7ef8-4cca-43e0-ab00-499206de24db.png" target="blank"><img align="center" src="https://user-images.githubusercontent.com/79783629/208970807-263a7ef8-4cca-43e0-ab00-499206de24db.png" alt="https://user-images.githubusercontent.com/79783629/208970807-263a7ef8-4cca-43e0-ab00-499206de24db.png" height="30" width="40" /></a>
+
 
 
 ```
