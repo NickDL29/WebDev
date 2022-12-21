@@ -137,9 +137,7 @@ employee.
 29 Design a form to fill up Resume details and store in a database. After saving 
 Resume details, users should able to view, insert, update and delete the 
 information. Changes must be reflected in a database
-![image](https://user-images.githubusercontent.com/79783629/208968548-5e9bbb1e-9293-4607-8ab4-0a9286275ce8.png)
-
-
+![resume tsble](https://user-images.githubusercontent.com/79783629/208969670-a10ec79b-6498-41e5-8afc-43d73d7ae334.png)
 ```
 
 ```
