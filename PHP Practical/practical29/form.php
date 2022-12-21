@@ -47,7 +47,7 @@
 
 </html>
 
-<!-- database input -->
+<!-- database input dbname="practicals"  tablename="resume"-->
     <!-- 1	first_name	text	
 	2	last_name	text	
 	3	position	text	
